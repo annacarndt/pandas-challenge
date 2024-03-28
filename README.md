@@ -1,5 +1,10 @@
+In this assignment, data was given and was manipulated using pandas to determine different outcomes for tests and school data. 
+
 Download the following files to help you get started:
 Module 4 Challenge files Links to an external site.
+https://static.bc-edx.com/data/dl-1-2/m4/lms/starter/Starter_Code.zip 
+
+
 Instructions
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
